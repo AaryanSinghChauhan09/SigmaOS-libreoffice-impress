@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-libreoffice-impress"
+version = "0.1.0"
+category = "libreoffice"
+description = "LibreOffice Impress presentation integration for SigmaOS"
